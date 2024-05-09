@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 1. Clone the repo:
-git clone https://github.com/yourusername/online-retail-recommendation-model.git
+git clone [https://github.com/yourusername/online-retail-recommendation-model.git](https://github.com/YagnamJoshi/online_recommedation_model)
 
 markdown
 Copy code
